@@ -1,5 +1,5 @@
----
-versions:
-    mein_release: '6.0'
----
 # doctest
+
+## Metadata
+
+* Version: <do_not_replace_version>

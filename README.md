@@ -2,7 +2,7 @@
 
 ## Metadata
 
-* Version: 2
+* Version: <do_not_replace_version>
 
 ## Content
 
